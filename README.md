@@ -4,8 +4,7 @@
 ## 🌐 프론트엔드
 ### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)  ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ## 🏭 백엔드 & 프레임워크
-### ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-6DB33F?logo=hibernate&logoColor=white)  
-### Java Servlet 🌐  JSP 📄  JDBC 🔌  MyBatis 📊
+### ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-6DB33F?logo=hibernate&logoColor=white)  Java Servlet   JSP   JDBC   MyBatis 
 ## 🗄️ 데이터베이스
 ### ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?logo=amazonaws&logoColor=white)
 ## 🔧 도구 & 플랫폼
