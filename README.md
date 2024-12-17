@@ -1,18 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Taehyeon%20GitHub&fontSize=45)
-# 기술 스택
-- ##  프로그래밍 언어
-  - ### ![java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-- ## 프론트엔드
-  - ### ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)  ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-- ## 백엔드 & 프레임워크
-  - ### ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-6DB33F?logo=hibernate&logoColor=white)  Java Servlet   JSP   JDBC   MyBatis 
-- ## 데이터베이스
-  - ### ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?logo=amazonaws&logoColor=white)
-- ## 도구 & 플랫폼
-  - ### ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=black) ![googlesheets](https://img.shields.io/badge/googlesheets-34A853?logo=googlesheets&logoColor=white) ![googlecloud](https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)  ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?logo=dotenv&logoColor=black)  ![oracle](https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white)  ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=oracle&logoColor=white)
-
-- ## 인증 및 API
-  - ### ![kakao](https://img.shields.io/badge/kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black) ![naver](https://img.shields.io/badge/naver%20API-03C75A?style=flat-square&logo=naver&logoColor=white) ![google](https://img.shields.io/badge/google%20API-4285F4?style=flat-square&logo=google&logoColor=white)
- 
-- # 사용량
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcv301)](https://github.com/anuraghazra/github-readme-stats)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Taehyeon%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 테스트 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 테스트 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:th.qsdcv301@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:th.qsdcv301@gamil.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=qsdcv301&bg_color=180,00000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsdcv301&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
