@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Taehyeon%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 신입 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 테스트 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새싹 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 목표 <br> 확장 가능하고 유지보수하기 쉬운 코드를 작성하는 것에 집중 <br> 새로운 기술을 배우며 꾸준히 성장하기 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
